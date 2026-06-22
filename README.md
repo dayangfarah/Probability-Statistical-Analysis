@@ -1,11 +1,11 @@
 # SECI 1143: Probability & Statistical Data Analysis
 
 ## 📌 Course Overview
-* [cite_start]**Faculty:** Faculty of Computing [cite: 1]
-* [cite_start]**Department:** Applied Computing and Artificial Intelligence [cite: 1]
-* [cite_start]**Course Code:** SECI 1143 [cite: 1]
-* [cite_start]**Academic Session/Semester:** 20232024/2 [cite: 1]
-* [cite_start]**Credit Hours:** 3 [cite: 1]
+* [cite_start]**Faculty:** Faculty of Computing 
+* [cite_start]**Department:** Applied Computing and Artificial Intelligence 
+* [cite_start]**Course Code:** SECI 1143 
+* [cite_start]**Academic Session/Semester:** 20232024/2 
+* [cite_start]**Credit Hours:** 3 
 
 ---
 
